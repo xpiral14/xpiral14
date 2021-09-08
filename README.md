@@ -81,7 +81,7 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 
-<div style="display: flex; gap: 10px;justify-content: center;">
+<p style="display: flex; gap: 10px;justify-content: center;">
 
     <div style="display: flex; flex-direction: column;gap: 5px;">
 
@@ -106,4 +106,4 @@
                 src="https://api.daily.dev/devcards/d1214c54adc4430dbb41d66bd683caf6.png?r=6km" width="400"
                 alt="Samuel Araujo Reis's Dev Card" /></a>
     </div>
-</div>
+</p>
