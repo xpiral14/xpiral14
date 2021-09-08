@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="left" style="display: flex; gap: 10px;justify-content: center;"> <a href="https://getbootstrap.com" target="_blank"> <img
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -81,9 +81,9 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 
-<p style="display: flex; gap: 10px;justify-content: center;">
+<section style="display: flex; gap: 10px;justify-content: center;">
 
-    <div style="display: flex; flex-direction: column;gap: 5px;">
+    <p style="display: flex; flex-direction: column;gap: 5px;">
 
         <img style="width: 350px;" align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=xpiral14&show_icons=true&locale=en&layout=compact"
@@ -98,12 +98,12 @@
             src="https://camo.githubusercontent.com/1630ce52df17c8886b71cb247c60d6474722d4a3e63afa9cf4cd1bda55e486ac/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d78706972616c313426"
             alt="xpiral14" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=xpiral14&amp;"
             style="max-width: 100%;">
-    </div>
+    </p>
 
-    <div>
+    <p>
 
         <a href="https://app.daily.dev/xpiral14" target="_blank"><img width="250px"
                 src="https://api.daily.dev/devcards/d1214c54adc4430dbb41d66bd683caf6.png?r=6km" width="400"
                 alt="Samuel Araujo Reis's Dev Card" /></a>
-    </div>
-</p>
+    </p>
+</section>
