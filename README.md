@@ -8,15 +8,13 @@
 
 - 🌱 I’m currently learning **Golang, Advanced data structures and Concurrence Programs**
 
-- 🤝 I’m looking for help with **Open source projects tha use Node JS as main stack**
+- 🤝 I’m looking for help with **Open source projects tha use PHP and Node JS as main stack**
 
 - 💬 Ask me about **React JS, Typescript, Node JS and Web Development**
 
 - 📫 How to reach me **sa.reis1999@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samreis1/](https://www.linkedin.com/in/samreis1/)
-
-- ⚡ Fun fact **I like dogs to much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
